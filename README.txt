@@ -5,5 +5,5 @@ Author: Kelani Yunus
 
 Feature: Bug/codelush man
 
-website: www.datahoodpay.com.ng
+website: https://www.datahoodpay.com.ng
 
