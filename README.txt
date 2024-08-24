@@ -1,4 +1,6 @@
 welcome to my project
 
 
-Author: Kelani
+Author: Kelani Yunus
+
+Feature: Bug/code
